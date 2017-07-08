@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.env
+.idea
+vendor
+bootstrap/cache
+bootstrap
+storage
